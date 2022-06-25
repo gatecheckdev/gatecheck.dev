@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: "logo.png"
-draft: true
+draft: false
 weight: 1
 ---
 

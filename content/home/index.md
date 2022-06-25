@@ -1,7 +1,7 @@
 ---
 title: "Gate Check"
 headless: true
-draft: true
+draft: false
 image: "logo.png"
 weight: 0
 ---
