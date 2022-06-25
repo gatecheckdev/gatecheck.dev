@@ -1,0 +1,12 @@
+baseURL = "http://gatecheck.dev"
+languageCode = "en-us"
+title = "Gate Check"
+theme = "introduction"
+
+[params]
+    themeStyle = "light"
+    favicon = "/img/fav.ico"
+    customCSS = ["main.css"]
+    fadeIn = false
+    fadeInIndex = false
+    
