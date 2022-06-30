@@ -1,8 +1,9 @@
 ---
 title: "Install"
 weight: 20
+draft: true
 ---
-## Root Key
+## Root Key 
 
 The root key must be injected at build time to prevent tampering.
 Gate Check can be used without a root key which is suggested for singular tennant environments.
