@@ -4,8 +4,6 @@ weight: 2
 draft: false
 ---
 
-## Getting Started
-
 The fastest way to get started with Gate Check is to download the pre-built binaries for your target system.
 
 ```shell
