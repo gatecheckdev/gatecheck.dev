@@ -27,6 +27,18 @@ Add a grype report
 ```shell
 gatecheck report add grype grype-report.json
 gatecheck report print
+
+-------------------------
+Grype Image Scan Report
+Scan Asset: report.json
+Severity   | Found   | Allowed | Pass 
+--------------------------------------
+Critical   | 3       | 1       | False 
+High       | 0       | 5       | True 
+Medium     | 0       | 30      | True 
+Low        | 0       | 50      | True 
+Negligible | 0       | -1      | True 
+Unknown    | 0       | -1      | True 
 ```
 
 **Note** You can specify specific config files or report files with ```--config FILE``` and/or ```--report FILE```
